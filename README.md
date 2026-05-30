@@ -1,2 +1,2 @@
 # mvbasov.github.io
-Web index
+[Web index](https://mvbasov.github.io/MyNeuroSlop/)
